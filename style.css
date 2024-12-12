@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #adbada;  
+}
+.container{
+    width: 1140px; 
+    margin: 0 auto;
+
+}
+.warp{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.left{
+    
+    width: 210px;
+}
+.nmfleid{
+    width: 100%;
+    padding: 5px 13px;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 9px;
+}
+.cpfleid{
+    width: 100%;
+    height: 82px;
+    resize: none;
+    padding: 5px 13px;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 9px;
+
+}
+.post_card{
+    width: 300px;
+    padding: 20px;
+    background-color: #8697c3;
+    margin: 10px 0px;
+    border-radius: 4px;
+}
+.post_cp{
+    margin-bottom: 10px;
+}
+.del_btn{
+    padding: 9px 26px;
+
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.edit_btn{
+    padding: 9px 26px;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+ 
+ .btn2{
+    display: none;
+    padding: 9px 26px;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    background-color: #8697c3;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+ }
+ .post_btn{
+    padding: 9px 26px;
+
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    background-color: #8697c3;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+ .search_btn{
+    padding: 9px 19px;
+
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    background-color: #8697c3;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+ 
+}
+.serach_in{
+    border: none;
+    border-radius: 4px;
+    padding: 8px 4px;
+}
